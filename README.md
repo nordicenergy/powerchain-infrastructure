@@ -14,7 +14,7 @@ A Blockchain-based Distributed Energy Infrastructure
 
 PowerChain is a blockchain-based Distributed Internet Infrastructure. PowerChain blockchain protocol powered by Nordic Energy smart contract, token (NET) and the native cryptocurrency NEC brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
 
-#
+
 
 #### Delegated Proof-Of-Stake Consensus Protocol (DPOS):
 
@@ -22,6 +22,7 @@ Our smart contract technologies based delegated proof-of-stake consensus protoco
 
 
 A PowerChain blockchain protocol powered by Nordic Energy´s smart contract, NET token and the native cryptocurrency NEC. PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security. Nordic Energy´s PowerChain operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model.
+
 
 #
 
