@@ -1,7 +1,7 @@
 # powerchain
 A Blockchain-based Distributed Energy Infrastructure
 
-#
+
 
 - Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as blockchain solutions for the energy, automotive industry, system architectures and distributed consensus algorithms.
 
