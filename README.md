@@ -3,7 +3,7 @@ A Blockchain-based Distributed Energy Infrastructure
 
 
 
-### Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as blockchain solutions for the energy, automotive industry, system architectures and distributed consensus algorithms.
+- Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as blockchain solutions for the energy, automotive industry, system architectures and distributed consensus algorithms.
 
 - A blockchain is a decentralized, distributed, and oftentimes public, digital ledger that is used to record transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks. ... A blockchain has been described as a value-exchange protocol.
 
