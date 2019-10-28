@@ -1,4 +1,4 @@
-# powerchain
+# PowerChain
 A Blockchain-based Distributed Energy Infrastructure
 
 
