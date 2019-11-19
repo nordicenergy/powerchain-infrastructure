@@ -1,54 +1,46 @@
-# PowerChain
-A Blockchain-based Distributed Energy Infrastructure
+
+# PowerChain - Blockchain-based Energy Infrastructure
+
+
+#### What is PowerChain?
+
+Blockchain-based protocol powered by smart contracts and the native cryptocurrency PowerChain (PWRC). PowerChain network brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
+
+Blockchain-enabled transactional digital platform offer operational cost reductions, increased efficiency, fast and automated processes, transparency and the possibility of reducing capital requirements for company. Blockchain applications in the energy sector and state that blockchain-enabled platform can facilitate financial transactions between different financial institutions and make payments faster by speeding up confirmation times. 
+
+The main use of smart contracts process of issuing ownership rights to real-world assets or utility in the form of a cryptocurrency. It helps energy producer, supplier, EVs charging point operators and  service providers ability to customize token and smart contracts with advanced features.
 
 
 
-- Blockchains promise transparent, tamper-proof and secure systems that can enable novel business solutions, especially when combined with smart contracts. This work provides a comprehensive overview of fundamental principles that underpin blockchain technologies, such as blockchain solutions for the energy, automotive industry, system architectures and distributed consensus algorithms.
+#### Protocol: 
 
-- A blockchain is a decentralized, distributed, and oftentimes public, digital ledger that is used to record transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks. ... A blockchain has been described as a value-exchange protocol.
-
-
-#
-
-### What is PowerChain?
-
-PowerChain is a blockchain-based Distributed Internet Infrastructure. PowerChain blockchain protocol powered by Nordic Energy smart contract, token (NET) and the native cryptocurrency NEC brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
-
-
-
-#### Delegated Proof-Of-Stake Consensus Protocol (DPOS):
-
-Our smart contract technologies based delegated proof-of-stake consensus protocol. The protocol emulates most of the attributes of a real computer including hardware (CPU(s) & GPU(s) for processing, local/RAM memory, hard-disk storage) with the computing resources distributed equally among NET tokens and NEC cryptocurrency holders.
-
-
-A PowerChain blockchain protocol powered by Nordic Energy´s smart contract, NET token and the native cryptocurrency NEC. PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security. Nordic Energy´s PowerChain operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model.
+A Blockchain-based of EOSIO technology “to revolutionize the global energy market through decentralization and industries". Our smart contract technologies based delegated proof-of-stake consensus protocol. 
 
 
 #
 
-### How it Works?
+#### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
-PowerChain blockchain operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model.
-
-PowerChain blockchain allow for the automated execution of smart contracts in peer-to-peer (P2P) networks. They can alternatively be seen as databases that permit multiple users to make changes in the ledger simultaneously, which can result in multiple chain versions. Instead of managing the ledger by a single trusted centre, each individual network member holds a copy of the records’ chain and reach an agreement on the valid state of the ledger with consensus.
-
-
-#### The next-generation blockchain protocol with industry- leading transaction speed and flexible utility based of EOSIO blockchain infrastructure:
-
-Blockchain is a decentralized, distributed store of transaction data. Periodically a new block of transactions is created and connected to the previous block. 
-
-- It is distributed because the blockchain stores transactions across many computers. 
-
-- It is decentralized because the blockchain infrastructure is not owned by one company.
-
-
-
-#### PowerChain Network gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
-
-- smart contract platform to eliminate transaction fees
+- energy smart contract platform to eliminate transaction fees 
 - is fully compatible with EOSIO and aims to achieve millions transactions per second
-- its delegated proof of stake blockchain
-- to easily deploy (partners) business on the PowerChain blockchain
+- its delegated proof of stake blockchain 
+- to easily deploy (partners) business on the PowerChain Blockchain.
 
+
+#
+#### Nordic Energy Tokenomics Overwiev
+
+This document provides an overwiev of the Nordic Energy ecosystem asset: The NET token, as well as additional information pertaining to Nordic Energy´s token sale.
+
+We´re excited to announce that Nordic Energy´s NET token offering has commenced and is now available to contributors of every country expect United States, Canada, and China. Nordic Energy will be raising $6 million through the NET token sale.
+
+#
+#### Introducing the NET token
+
+NET is utility token of Nordic Energy ecosystem. Nordic Energy blockchain platform enables for creating, electricity trading, digital assets. We using blockchain-based technology to transform the energy ecosystem, building a business of the new energy generation. Nordic Energy´s infrastructure includes the traditional utilities associated with peer-to-peer energy trading, transport, management, supply-chains and administrative functions. The NET token connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
+
+To become the leading distributor for blockchain innovation, platform and entrepreneurship in sustainable energy. Is use blockchain token smart contracts to reduce the Easy Supplier Integration Services scheme will cut the time and costs of processing orders, as well as increasing reliability and integrating better with customers’ own (clean) electricity generating systems, technology, using the platform to authenticate the provenance of 100% clean energy, energy efficiency products and bringing a new level of multi-layered electricity distribution to the energy industry.
+
+We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open-source development within the next energy revolution to create an autonomous network that NET tokens helps renewable energy prosumers to exchange energy in a more democratic system, and to create new community-driven energy models that embrace green energy initiatives. We hope to power an increased investment in green energy, power energy provenance certificates to verify green energy origins, and create a paradigm for decentralized energy grid management. The NET token aim to simplify our life, ordering process, settlements with energy smart contracts, facilitate payments, automate billing processes.
 
 
