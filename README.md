@@ -1,5 +1,5 @@
 
-
+</p>
 # Blockchain based Energy Infrastructure
 </p>
    <a rel="technical_details" href="http://powerchain.nordicenergy.io/documents/whitepaper/1.0/"><img alt="Technical Details" style="border-width:0" src="https://nordicenergy.co/l/documents/1.0/88x31.png" /></a><br /><br />
@@ -23,19 +23,18 @@ A Blockchain-based of EOSIO technology “to revolutionize the global energy mar
 </p>
 
 ### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
-
-# 1. energy smart contract platform to eliminate transaction fees
-# 2. is fully compatible with EOSIO and aims to achieve millions transactions per second
-# 3. it´s delegated proof of stake blockchain 
-# 4. to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
-
+</p>
+1. energy smart contract platform to eliminate transaction fees
+2. is fully compatible with EOSIO and aims to achieve millions transactions per second
+3. it´s delegated proof of stake blockchain 
+4. to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
+</p>
 
 
 ## Ecosystem
-
+</p>
 
 ### NET token is utility token of Nordic Energy ecosystem
-
 Nordic Energy platform enables for creating, electricity trading, digital assets. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates. To become the leading distributor for blockchain innovation, P2P energy trading platform and entrepreneurship in sustainable energy. Is use blockchain to reduce the easy supplier integration services scheme will cut the time and costs of processing orders, as well as increasing reliability and integrating better with customers’ own (clean) electricity generating systems, technology, using the platform to authenticate the provenance of 100% clean energy, energy efficiency products and bringing a new level of multi-layered electricity distribution to the energy industry.
 </p>
 
