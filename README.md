@@ -3,7 +3,6 @@
 # Blockchain based Energy Infrastructure
 
 
-#
 
 
 #### Introduction
