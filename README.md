@@ -1,9 +1,8 @@
 
 
-# Blockchain based Energy Infrastructure#
+# Blockchain based Energy Infrastructure
 
-
-
+#
 
 ## Introduction
 
@@ -23,7 +22,7 @@ A Blockchain-based of EOSIO technology “to revolutionize the global energy mar
 - it´s delegated proof of stake blockchain 
 - to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
 
-
+#
 
 ## Ecosystem
 
@@ -50,7 +49,7 @@ Nordic Energy is developing the scalable public-private blockchain platform with
 
 Decentralized energy market based of Ethereum blockchain
 
-
+#
 
 ## Our Mission
 
