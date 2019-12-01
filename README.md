@@ -24,10 +24,10 @@ A Blockchain-based of EOSIO technology “to revolutionize the global energy mar
 
 ### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
-1. energy smart contract platform to eliminate transaction fees
-2. is fully compatible with EOSIO and aims to achieve millions transactions per second
-3. it´s delegated proof of stake blockchain 
-4. to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
+# 1. energy smart contract platform to eliminate transaction fees
+# 2. is fully compatible with EOSIO and aims to achieve millions transactions per second
+# 3. it´s delegated proof of stake blockchain 
+# 4. to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
 
 
 
