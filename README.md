@@ -55,6 +55,9 @@ Decentralized energy market based of Ethereum blockchain
 </p>
 
 
+### Development
+</p>
+
 
 ## Our Mission
 We hope to power an increased investment in green energy, power energy provenance certificates to verify green energy origins, and create a paradigm for decentralized energy grid management. The NET token aim to simplify our life, ordering process, settlements with energy smart contracts, facilitate payments, automate billing processes. We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open-source development within the next energy generation to create an autonomous transactions that helps renewable energy prosumers to exchange energy in a more democratic system, and to create new community-driven energy models that embrace green energy initiatives.
