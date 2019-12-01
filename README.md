@@ -62,5 +62,6 @@ A subsidiary, company Smart Energy Solutions / Smart Charging is a company that 
 
 
 ### Smart Charging - Automotive Operation
-Smart Charging: (https:smartcharging.solutions)
+
+Smart Charging: https:smartcharging.solutions
 
