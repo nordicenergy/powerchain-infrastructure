@@ -33,7 +33,7 @@ A Blockchain-based of EOSIO technology “to revolutionize the global energy mar
 
 
 ## Ecosystem
-</p>
+
 
 ### NET token is utility token of Nordic Energy ecosystem
 Nordic Energy platform enables for creating, electricity trading, digital assets. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates. To become the leading distributor for blockchain innovation, P2P energy trading platform and entrepreneurship in sustainable energy. Is use blockchain to reduce the easy supplier integration services scheme will cut the time and costs of processing orders, as well as increasing reliability and integrating better with customers’ own (clean) electricity generating systems, technology, using the platform to authenticate the provenance of 100% clean energy, energy efficiency products and bringing a new level of multi-layered electricity distribution to the energy industry.
