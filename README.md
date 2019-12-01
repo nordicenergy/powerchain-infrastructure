@@ -63,5 +63,7 @@ A subsidiary, company Smart Energy Solutions / Smart Charging is a company that 
 
 ### Smart Charging - Automotive Operation
 
-Smart Charging: https:smartcharging.solutions
-
+</p>
+<p align="left">
+    <a href="https://twitter.com/intent/follow?screen_name=Nordic_Energy"><img src="https://img.smartcharging.solutions/badge/coverage.svg" alt="EV´s Smart Charging"></a> [Smart Charging Solutions] (https://www.smartcharging.solutions/) alt="Website Link"></a>  
+</p>
