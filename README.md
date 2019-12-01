@@ -1,5 +1,6 @@
 
-</p>
+
+
 # Blockchain based Energy Infrastructure
 </p>
    <a rel="technical_details" href="http://powerchain.nordicenergy.io/documents/whitepaper/1.0/"><img alt="Technical Details" style="border-width:0" src="https://nordicenergy.co/l/documents/1.0/88x31.png" /></a><br /><br />
