@@ -1,6 +1,7 @@
 </p>
 
-## Blockchain based Energy Infrastructure
+# Blockchain based Energy Infrastructure
+</p>
 </p>
 
 
