@@ -22,13 +22,13 @@ We using blockchain-based technology to transform the energy ecosystem, building
 A Blockchain-based of EOSIO technology “to revolutionize the global energy market through decentralization and energy industries". protocol powered by Nordic Energy smart contracts, and the native cryptocurrency PowerChain (PWRC). PowerChain (blockchain) network brings speed and scalability to a PowerChain blockchain architecture that addresses the need for minimal transaction fees and highly security. Nordic Energy´s blockchain-enabled transactional digital platform offer operational cost reductions, increased efficiency, fast and automated processes, transparency and the possibility of reducing capital requirements for company. Nordic Energy smart contract technologies based delegated proof-of-stake consensus protocol. 
 </p>
 
-#### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
+### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
 1. energy smart contract platform to eliminate transaction fees
 2. is fully compatible with EOSIO and aims to achieve millions transactions per second
 3. it´s delegated proof of stake blockchain 
 4. to easily deploy (partners) business network on the Nordic Energy´s PowerChain blockchain.
-</p>
+
 
 
 ## Ecosystem
@@ -55,10 +55,13 @@ Decentralized energy market based of Ethereum blockchain
 We hope to power an increased investment in green energy, power energy provenance certificates to verify green energy origins, and create a paradigm for decentralized energy grid management. The NET token aim to simplify our life, ordering process, settlements with energy smart contracts, facilitate payments, automate billing processes. We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open-source development within the next energy generation to create an autonomous transactions that helps renewable energy prosumers to exchange energy in a more democratic system, and to create new community-driven energy models that embrace green energy initiatives.
 </p>
 
+#
+
 ## Corporation Structure
 A subsidiary, company Smart Energy Solutions / Smart Charging is a company that is owned and controlled by Nordic Energy Ltd. and Frontier Technology. Co., Ltd. (China). 
 </p>
 
+
 ## Smart Charging - Automotive Operation
 [Smart Charging]: (https:smartcharging.solutions)
-</p>
+
