@@ -1,10 +1,9 @@
 
 
-
 # Blockchain based Energy Infrastructure
 
 p align="left">
-   <a rel="technical_details" href="http://powerchain.nordicenergy.io/documents/whitepaper/1.0/"><img alt="Technical Details" style="border-width:0" src="https://nordicenergy.co/l/documents/1.0/88x31.png"  /></a><br /><br />
+   <a rel="technical_details" href="http://powerchain.nordicenergy.io/documents/whitepaper/1.0/"><img alt="Technical Details" style="border-width:0" src="https://nordicenergy.co/l/documents/1.0/88x31.png" /></a><br /><br />
    <a href="https://nordicenergy.io/services/trading-platform-client"><img src="https://nordicenergy.io/services/trading-platform-client/branch/master/graph/badge.svg" alt="PowerChain"></a>
    <a href="https://nordicenergy.io/services/powerchain/trading-platform-client"><img src="https://img.nordicenergy.io/powerchain/coverage-powerchain-blockchain.svg" alt="Coverage Badge"></a>
    <a href="https://bitbucket.org/nordicenergy/frontend/addon/pipelines/home#!/results/powerchain"><img src="https://img.powerchain.nordicenergy.io/badge/build-success-dark-blue.svg" alt="Coverage Badge"></a>
@@ -13,6 +12,7 @@ p align="left">
     <a href="https://twitter.com/intent/follow?screen_name=Nordic_Energy"><img src="https://img.shields.io/twitter/follow/Nordic_Energy.svg?style=social&label=Follow%20@Nordic_Energy" alt="Follow on Twitter"></a>  
 </p>
 
+#
 
 ## Introduction
 We using blockchain-based technology to transform the energy ecosystem, building a business of the new energy generation. Nordic Energy´s infrastructure includes the traditional utilities associated with peer-to-peer energy trading, transport, management, supply-chains and administrative functions.
