@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# echo "[*] Cleaning up temporary data directories for slave node"
+# echo "[*] Cleaning up temporary data directories for nordicenergy node"
 cp -r node/qdata/keystore .
 cp node/qdata/geth/nodekey .
 cp node/qdata/*.properties .

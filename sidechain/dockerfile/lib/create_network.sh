@@ -15,7 +15,7 @@ function generateKeyPair(){
 
 #function to create node initialization script
 function createInitNodeScript(){
-    cp lib/poweechain/init_template.sh ${mNode}/init.sh
+    cp lib/powerchain/init_template.sh ${mNode}/init.sh
     chmod +x ${mNode}/init.sh
 }
 
