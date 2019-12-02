@@ -12,11 +12,14 @@ Manually editing configuration files and creating nodes is a slow and error-pron
 
 ## PowerChain provides the following benefits:
 
-- An easy interface to create and manage the PowerChain Blockchain
-- A modern UI to monitor and manage Nordic Energy´s PowerChain Network
-- A Network Map Service to be used for identifying nodes and self-publishing roles.  
-- Block and Transaction Explorer
-- Smart Contract Deployment
+1. Maker provides the following benefits:
+2. An easy interface to create and manage the PowerChain Network
+3. A modern UI to monitor and manage PowerChain Network
+4. A Network Map Service to be used for identifying nodes and self-publishing roles.
+5. Block and Transaction Explorer
+5. Smart Contract Deployment
+7. Email Notifications
+
 
 ## Quickstart
 
