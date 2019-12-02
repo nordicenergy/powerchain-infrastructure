@@ -1,4 +1,4 @@
-# PowerChain V1.0
+# PowerChain Sidechain Maker v1.0
 
 PowerChain node maker is a tool that allows users to create and manage PowerChain Sidechains networks. It is based on [Synechron's Quorum Maker](https://github.com/synechron-finlabs/quorum-maker).
 
@@ -23,14 +23,8 @@ Manually editing configuration files and creating nodes is a slow and error-pron
 For quick help, run `./setup.sh --help` 
 
 ```
-  _       __      __
- | |     |  \    /  |  
- | |     |   \  /   |  
- | |     |    \/    |  
- | |     | |\    /| |  
- | |     | | \  / | |  
- | |_____| |  \/  | |  
- |_________|      |_|  Version  Built on PowerChain sidechain 1.8
+
+Version  Built on PowerChain sidechain
 
 
 Usage ./setup.sh [COMMAND] [OPTIONS]
