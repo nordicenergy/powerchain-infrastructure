@@ -15,7 +15,7 @@ By using Nordic Energy´s cross-platforms makes it possible for distributed ener
 
 Energy exchange platform Is scalable public-private blockchain with deletable data features, made for commercial products, with energy, charging use cases, and co-innovated with SAP. Nordic Energy platforms enable to trade electricity until shortly before the period of delivery on so called intraday electricity markets. 
 
-Repo: https://github.com/nordicenergy/energy-trading-platform-client-ui
+Repo: https://github.com/nordicenergy/energy-exchange-platform
 
 
 #### Smart Contracts
