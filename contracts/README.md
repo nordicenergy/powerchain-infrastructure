@@ -10,7 +10,11 @@ Nordic Energy Token (ERC20): https://etherscan.io/token/0x4d0a4c762bd7f742096daa
 
 PowerChain Token:
 
-Stablecoin: 
+Stablecoin:
+
+Security Token (NEST):
+
+Smart Charging Token (SCT):
 
 EOS.IO: 
 
