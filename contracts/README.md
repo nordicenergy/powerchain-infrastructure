@@ -8,6 +8,8 @@
 
 Nordic Energy Token (ERC20): https://etherscan.io/token/0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95
 
+PowerChain Token:
+
 Stablecoin: 
 
 EOS.IO: 
