@@ -26,6 +26,8 @@ dApp:
 
 Crowdsale/token sale:
 
+ICO/STO: 
+
 #
 
 #### Energy Trading Platform Use Case Contracts:
