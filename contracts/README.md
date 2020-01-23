@@ -22,6 +22,8 @@ EOS.IO:
 
 Airdrop
 
+dApp:
+
 Crowdsale/token sale:
 
 #
