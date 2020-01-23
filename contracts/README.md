@@ -20,13 +20,16 @@ Smart Charging Token (SCT):
 
 EOS.IO: 
 
-Airdrop
-
 dApp:
 
-Crowdsale/token sale:
+
+#### Token Sales: 
+
+Crowdsales:
 
 ICO/STO: 
+
+Airdrop:
 
 #
 
