@@ -1,10 +1,10 @@
 
 # Nordic Energy Smart Contracts
 
-#### Nordic Energy / PowerChain cross-platforms use case contracts.
+#### Nordic Energy / PowerChain Cross-Platforms Use Case Contracts.
 
 
-#### Tokens:
+#### Token Economies:
 
 Nordic Energy Token (ERC20): https://etherscan.io/token/0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95
 
@@ -18,7 +18,7 @@ Crowdsale/token sale:
 
 #
 
-#### Energy Trading Platform use cases:
+#### Energy Trading Platform Use Case Contracts:
 
 Network Manager Contract: https://etherscan.io/address/0x55d18731286af2daa27d50a1d15f5d77512e6723#code
 
